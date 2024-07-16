@@ -1,0 +1,42 @@
+.login-card{
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/background/20210422/pngtree-abstract-gradient-pattern-navy-blue-background-image_632934.jpg');
+    width: 80%;
+    height: 50%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 70px;
+}
+.login-form{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 80%;
+}
+.login-div{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 13px;
+}
+.login-div label{
+    color: white;
+}
+.checkbox label{
+    color: white;
+    font-family: roboto;
+
+}
+.checkbox{
+    display: flex;
+}
+.signup-show{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.signup-link{
+    color: white;
+    font-family: roboto;
+}
